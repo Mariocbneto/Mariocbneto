@@ -21,6 +21,13 @@ Criei este espaço para compartilhar minha trajetória na área da tecnologia, d
             src="https://custom-icon-badges.demolab.com/badge/-mariocbnetoo@gmail.com-blue?style=for-the-badge&logo=mention&logoColor=white"
         />
     </a> 
+    <a href="https://www.instagram.com/livmrb/">
+        <img 
+            alt="Amor" 
+            title="Amor" 
+            src="https://custom-icon-badges.demolab.com/badge/Heart-D15E9B.svg?logo=heart"
+        />
+    </a> 
    
 </p>
 
